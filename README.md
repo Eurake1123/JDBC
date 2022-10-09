@@ -2,7 +2,7 @@
 
 > JDBC学习笔记
 
-###src目录概述
+### src目录概述
 
 > DataSource: 数据库连接池c3p0和Druid的使用样例
 
